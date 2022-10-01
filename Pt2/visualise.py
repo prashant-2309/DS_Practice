@@ -7,3 +7,5 @@ y = var['Y']
 plt.plot(x,y)
 plt.title('2-D plot of the data')
 plt.show()
+
+input()

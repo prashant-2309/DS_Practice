@@ -15,3 +15,5 @@ df3 = pd.read_csv('D1_3.csv')
 plt.hist(df3['C'], bins=50)
 plt.title("Histogram C")
 plt.show()
+
+input()
